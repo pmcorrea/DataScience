@@ -1,0 +1,13 @@
+name: scipy18jlab
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - pip
+  - cookiecutter=1.6
+  - notebook=5.5
+  - pandas=0.23
+  - nodejs=9.11
+  - jupyterlab
+  - bqplot
+  - pythreejs
